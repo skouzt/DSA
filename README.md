@@ -33,16 +33,21 @@ A personal vault of daily LeetCode solutions — built through consistent, delib
 
 ```
 DSA/
-├── arrays/
-├── strings/
-├── linked-lists/
-├── trees/
-├── graphs/
-├── dynamic-programming/
-├── backtracking/
-├── binary-search/
-├── stacks-queues/
-└── heap-priority-queue/
+├── arrays/               # Arrays & Hashing
+├── stacks-queues/        # Stack
+├── binary-search/        # Binary Search
+├── sliding-window/       # Sliding Window
+├── linked-lists/         # Linked List
+├── trees/                # Trees
+├── tries/                # Tries
+├── heap-priority-queue/  # Heap / Priority Queue
+├── backtracking/         # Backtracking
+├── graphs/               # Graphs + Advanced Graphs
+├── dynamic-programming/  # 1-D DP → 2-D DP
+├── intervals/            # Intervals
+├── greedy/               # Greedy
+├── bit-manipulation/     # Bit Manipulation
+└── math-geometry/        # Math & Geometry
 ```
 
 ---
@@ -52,7 +57,7 @@ DSA/
 | Difficulty | Solved | Goal |
 |:----------:|:------:|:----:|
 | 🟢 Easy    |   4    |  50  |
-| 🟡 Medium  |   6    | 100  |
+| 🟡 Medium  |   7    | 100  |
 | 🔴 Hard    |   —    |  25  |
 
 ---
@@ -103,7 +108,7 @@ def solution(...):
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/DSA.git
+git clone https://github.com/skouzt/DSA
 cd DSA
 # Navigate to any topic folder and explore solutions
 ```
